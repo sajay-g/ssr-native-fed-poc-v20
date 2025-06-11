@@ -5,7 +5,7 @@ console.log('Starting SSR for Shell');
 (async () => {
 
   await initNodeFederation({
-    remotesOrManifestUrl: { mfe1: 'http://localhost:4201/remoteEntry.js' },
+    remotesOrManifestUrl: { mfe1: 'http://localhost:4201/remoteEntry.json' },
     relBundlePath: './dist/shell/browser/',
   });
   await import('./bootstrap-server');

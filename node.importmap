@@ -35,7 +35,47 @@
     "@angular/ssr": "././dist/shell/browser/_angular_ssr.z0I5pv9VNP-dev.js",
     "@angular/ssr/node": "././dist/shell/browser/_angular_ssr_node.vkXe_R-T_u-dev.js",
     "xhr2-WTLKHYN4.js": "././dist/shell/browser/xhr2-WTLKHYN4.js",
-    "chunk-3QVZCVE3.js": "././dist/shell/browser/chunk-3QVZCVE3.js"
+    "chunk-3QVZCVE3.js": "././dist/shell/browser/chunk-3QVZCVE3.js",
+    "mfe1/Component": "http://localhost:4201/Component.js"
   },
-  "scopes": {}
+  "scopes": {
+    "http://localhost:4201/": {
+      "@angular/animations": "././dist/shell/browser/_angular_animations.Qwr8Kct4jg-dev.js",
+      "@angular/animations/browser": "././dist/shell/browser/_angular_animations_browser.mbXlBwXuui-dev.js",
+      "@angular/common": "././dist/shell/browser/_angular_common.Nk2fweGF1g-dev.js",
+      "@angular/common/http": "././dist/shell/browser/_angular_common_http.pXhFWZDRFY-dev.js",
+      "@angular/compiler": "././dist/shell/browser/_angular_compiler.tPTpK2uuFr-dev.js",
+      "@angular/core": "././dist/shell/browser/_angular_core.XNt2DXPyM4-dev.js",
+      "@angular/core/event-dispatch-contract.min.js": "././dist/shell/browser/_angular_core_event_dispatch_contract_min_js.tMgrawRS_W-dev.js",
+      "@angular/core/primitives/di": "././dist/shell/browser/_angular_core_primitives_di.2LLeCA0jbN-dev.js",
+      "@angular/core/primitives/event-dispatch": "././dist/shell/browser/_angular_core_primitives_event_dispatch.4xyhIve_if-dev.js",
+      "@angular/core/primitives/signals": "././dist/shell/browser/_angular_core_primitives_signals.dWbZSzJmTG-dev.js",
+      "@angular/core/rxjs-interop": "././dist/shell/browser/_angular_core_rxjs_interop.QgWYkHZLBC-dev.js",
+      "@angular/forms": "././dist/shell/browser/_angular_forms.YWUsAbyp6s-dev.js",
+      "@angular/platform-browser": "././dist/shell/browser/_angular_platform_browser.rXs4zekNuw-dev.js",
+      "@angular/platform-browser/animations": "././dist/shell/browser/_angular_platform_browser_animations.W0iZb-Adjn-dev.js",
+      "@angular/platform-browser/animations/async": "././dist/shell/browser/_angular_platform_browser_animations_async.5c4h23J4FL-dev.js",
+      "@angular/platform-browser-dynamic": "././dist/shell/browser/_angular_platform_browser_dynamic.VfrfKVG7E4-dev.js",
+      "@angular/router": "././dist/shell/browser/_angular_router.SyYN5xy8eh-dev.js",
+      "cors": "././dist/shell/browser/cors.I86sPvOqKc-dev.js",
+      "rxjs": "././dist/shell/browser/rxjs.3y3upDR2G2-dev.js",
+      "rxjs/operators": "././dist/shell/browser/rxjs_operators.wK0b8J6Nya-dev.js",
+      "tslib": "././dist/shell/browser/tslib.3vaMy3I15o-dev.js",
+      "chunk-TKSQ7M72.js": "././dist/shell/browser/chunk-TKSQ7M72.js",
+      "chunk-EBZCECIQ.js": "././dist/shell/browser/chunk-EBZCECIQ.js",
+      "chunk-Y26QGWD7.js": "././dist/shell/browser/chunk-Y26QGWD7.js",
+      "chunk-HZT4A4RJ.js": "././dist/shell/browser/chunk-HZT4A4RJ.js",
+      "chunk-2HB24CSA.js": "././dist/shell/browser/chunk-2HB24CSA.js",
+      "chunk-BB632L5H.js": "././dist/shell/browser/chunk-BB632L5H.js",
+      "chunk-DMXNJFYF.js": "././dist/shell/browser/chunk-DMXNJFYF.js",
+      "chunk-WNSIDLSC.js": "././dist/shell/browser/chunk-WNSIDLSC.js",
+      "chunk-3OV72XIM.js": "././dist/shell/browser/chunk-3OV72XIM.js",
+      "@angular/platform-server": "././dist/shell/browser/_angular_platform_server.sbcw72FeMt-dev.js",
+      "@angular/platform-server/init": "././dist/shell/browser/_angular_platform_server_init.0wiWzqZVI7-dev.js",
+      "@angular/ssr": "././dist/shell/browser/_angular_ssr.z0I5pv9VNP-dev.js",
+      "@angular/ssr/node": "././dist/shell/browser/_angular_ssr_node.vkXe_R-T_u-dev.js",
+      "xhr2-WTLKHYN4.js": "././dist/shell/browser/xhr2-WTLKHYN4.js",
+      "chunk-3QVZCVE3.js": "././dist/shell/browser/chunk-3QVZCVE3.js"
+    }
+  }
 }
